@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="C:/Users/Ahmed/source/repos/MechanicShop.Api/MechanicShop.Api.csproj" Id="bdd16da5-a06f-4519-8c27-78c86327c5a1" />
+    <Project Path="Contracts/MechanicShop.Contracts.csproj" />
+    <Project Path="MechanicShop.Application/MechanicShop.Application.csproj" />
+    <Project Path="MechanicShop.Client/MechanicShop.Client.csproj" />
+    <Project Path="MechanicShop.Domain/MechanicShop.Domain.csproj" />
+    <Project Path="MechanicShop.Infrastructure/MechanicShop.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
